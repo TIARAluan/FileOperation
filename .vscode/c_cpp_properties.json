@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "${workspaceFolder}",
+                "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++",
+                "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/x86_64-w64-mingw32",
+                "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/backward",
+                "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include",
+                "E:/VScode/TDM-GCC/x86_64-w64-mingw32/include",
+                "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++",
+                    "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/x86_64-w64-mingw32",
+                    "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/backward",
+                    "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include",
+                    "E:/VScode/TDM-GCC/x86_64-w64-mingw32/include",
+                    "E:/VScode/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"
+                ]
+            },
+            "compilerPath": "C:/Visual Studio 2015/temp/VC/bin/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
